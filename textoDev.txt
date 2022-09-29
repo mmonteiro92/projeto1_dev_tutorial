@@ -4,3 +4,5 @@ Dev teste Git
 Hello world
 
 Meu site HTML/CSS
+
+29/08 Dia de edição e estudos de criação de web site com HTML.
